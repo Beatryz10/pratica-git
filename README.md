@@ -6,7 +6,7 @@
 * Testar carrinho de compras
 * Gerar evidências profissionais
 
-# * Tecnologias
+## Tecnologias
 **Node.js** (LTS)
-**JavaScript**
+**JavaScript** 
 **Git/GitHub**
