@@ -7,6 +7,6 @@
 * Gerar evidências profissionais
 
 ## Tecnologias
-**Node.js (LTS)
-**JavaScript
-**Git/GitHub
+* Node.js (LTS)
+* JavaScript
+* Git/GitHub
